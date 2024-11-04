@@ -18,6 +18,7 @@ switch(num){
     case 6: std::cout << "JACKPOTT 100 GOLD !!";
         break;
 }
+std::cout << "Working";
 return 0;
 }
     
